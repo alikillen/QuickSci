@@ -10,4 +10,6 @@ Dev Journal for QuickSci
 - interesting that more traditional science magazines websites were immediately not as appealing - not as well designed, colours etc, and socials were not as prominent
 - started from scratch but could look at HTML templates
 - realised i proabbly need to mockup some wireframes but I still kinda hate wireframes
-- 
+
+
+4/09/20
