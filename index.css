@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.4;
+  color: red;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+.astro {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=index.css.map */
