@@ -1,1 +1,1 @@
-.devlog.md
+**/devlog
